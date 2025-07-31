@@ -59,3 +59,11 @@
   <img src="https://img.shields.io/badge/Machine%20Learning-06B6D4?logo=code&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-8B5CF6?logo=brain&logoColor=white&style=for-the-badge"/>
 </p>
+
+
+
+<div align="center">
+  <img height="400" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cm90amZ1YWFxbGhvYXdhZTB3dHZmaXFid3lyN3hzZ3VtcmZrYnZrNCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/xTiTnx37nc3vjsdeLK/giphy.gif"  />
+</div>
+
+###
