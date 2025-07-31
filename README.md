@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishi Raj</h1>
 <h3 align="center">BUILDING 🚀</h3>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RishiRaj1495/RishiRaj1495/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RishiRaj1495/RishiRaj1495/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RishiRaj1495/RishiRaj1495/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
 <img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjY3b2hrYnMxcmN3a2FuczA1aDM1N2NqaTJmZTF3NGdqMnNscW1odSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"  />
 
