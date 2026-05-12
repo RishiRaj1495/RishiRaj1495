@@ -1,18 +1,31 @@
+<div align="center">
+  <img src="https://media3.giphy.com/media/zOvBKUUEERdNm/giphy.gif" height="180" alt="coding gif" />
+</div>
 <h1 align="center">Hi 👋, I'm Rishi Raj</h1>
-<h3 align="center">BUILDING 🚀</h3>
-
-
-<img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjY3b2hrYnMxcmN3a2FuczA1aDM1N2NqaTJmZTF3NGdqMnNscW1odSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"  />
-
-###
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishiraj1495&label=Profile%20views&color=0e75b6&style=flat" alt="rishiraj1495" /> </p>
-
-- 🌱 I’m currently learning **AI, ML, Cloud, scalable web apps.**
-
-- 📫 How to reach me **https://www.linkedin.com/in/14rishi-raj**
-
-- ⚡ Fun fact **Code + caffeine = limitless possibilities.**
+<p align="center">
+  <b>Building at the intersection of AI · ML · Cloud · Web</b><br/>
+  <i>Full-stack developer & AI enthusiast, India 🇮🇳</i>
+</p>
+<p align="center">
+  <a href="https://linkedin.com/in/14rishi-raj" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://linktr.ee/rishiraj.x_yz" target="_blank">
+    <img src="https://img.shields.io/badge/Linktree-43E55E?logo=linktree&logoColor=black&style=for-the-badge" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=rishiraj1495&label=Profile+Views&color=378ADD&style=for-the-badge" />
+</p>
+---
+ 
+## 🚀 About Me
+ 
+- 🌱 Currently deepening my skills in **AI/ML, Cloud-native architecture, and scalable web applications**
+- 🤖 Exploring **deep learning** with PyTorch & TensorFlow, and building intelligent systems
+- 🛠️ I enjoy turning ideas into products — from ML models to full mobile & web apps
+- 🏆 Hackathon builder — shipped projects at **Tech Tinkerers** and college project exhibitions
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/14rishi-raj)
+- ⚡ Fun fact: **Code + caffeine = limitless possibilities**
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
