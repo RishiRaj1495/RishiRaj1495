@@ -1,75 +1,171 @@
 <div align="center">
-  <img src="https://media3.giphy.com/media/zOvBKUUEERdNm/giphy.gif" height="180" alt="coding gif" />
-</div>
-<h1 align="center">Hi 👋, I'm Rishi Raj</h1>
-<p align="center">
-  <b>Building at the intersection of AI · ML · Cloud · Web</b><br/>
-  <i>Full-stack developer & AI enthusiast, India 🇮🇳</i>
-</p>
-<p align="center">
-  <a href="https://linkedin.com/in/14rishi-raj" target="_blank">
+
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rishi%20Raj&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=AI%20%C2%B7%20ML%20%C2%B7%20Cloud%20%C2%B7%20Full-Stack&descAlignY=58&descSize=22&animation=fadeIn" />
+
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;AI+%2F+ML+Engineer+%F0%9F%A4%96;Deep+Learning+Enthusiast+%F0%9F%A7%A0;Building+the+Future%2C+One+Commit+at+a+Time+%E2%9C%A8" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Social Badges -->
+<p>
+  <a href="https://linkedin.com/in/14rishi-raj">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://linktr.ee/rishiraj.x_yz" target="_blank">
+  <a href="https://linktr.ee/rishiraj.x_yz">
     <img src="https://img.shields.io/badge/Linktree-43E55E?logo=linktree&logoColor=black&style=for-the-badge" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=rishiraj1495&label=Profile+Views&color=378ADD&style=for-the-badge" />
-</p>
----
- 
-## 🚀 About Me
- 
-- 🌱 Currently deepening my skills in **AI/ML, Cloud-native architecture, and scalable web applications**
-- 🤖 Exploring **deep learning** with PyTorch & TensorFlow, and building intelligent systems
-- 🛠️ I enjoy turning ideas into products — from ML models to full mobile & web apps
-- 🏆 Hackathon builder — shipped projects at **Tech Tinkerers** and college project exhibitions
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/14rishi-raj)
-- ⚡ Fun fact: **Code + caffeine = limitless possibilities**
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/14rishi-raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="14rishi-raj" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=rishiraj1495&label=Profile+Views&color=A78BFA&style=for-the-badge" />
 </p>
 
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RishiRaj1495&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RishiRaj1495&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=gruvbox&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+---
 
+## 🧬 About Me
 
+```python
+class RishiRaj:
+    def __init__(self):
+        self.name       = "Rishi Raj"
+        self.location   = "India 🇮🇳"
+        self.role       = "Full-Stack Developer & AI Engineer"
+        self.languages  = ["Python", "Java", "JavaScript", "C++"]
+        self.interests  = ["Deep Learning", "Cloud Architecture", "Mobile Apps"]
+        self.hackathons = ["Tech Tinkerers", "College Project Exhibitions"]
+        self.mantra     = "Code + Caffeine = Limitless Possibilities ⚡"
 
+    def currently_learning(self):
+        return ["AI/ML", "Cloud-native Architecture", "Scalable Web Apps"]
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MATLAB-FF8000?logo=mathworks&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-06B6D4?logo=code&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-8B5CF6?logo=brain&logoColor=white&style=for-the-badge"/>
-</p>
+    def reach_me(self):
+        return "https://linkedin.com/in/14rishi-raj"
+```
 
+---
 
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img height="400" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cm90amZ1YWFxbGhvYXdhZTB3dHZmaXFid3lyN3hzZ3VtcmZrYnZrNCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/xTiTnx37nc3vjsdeLK/giphy.gif"  />
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
+
+**Frontend & Design**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
+
+**AI / ML**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
+
+**Cloud & Tools**
+
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=for-the-badge)
+![MATLAB](https://img.shields.io/badge/MATLAB-FF8000?logo=mathworks&logoColor=white&style=for-the-badge)
+
 </div>
 
-###
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.shion.dev/api?username=RishiRaj1495&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=RishiRaj1495&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
+
+<br/>
+
+<img width="40%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=RishiRaj1495&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&layout=compact" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<!-- 
+  ⚙️ SETUP REQUIRED — Snake Animation:
+  
+  Add this GitHub Actions workflow to your repo:
+  File: .github/workflows/snake.yml
+  
+  name: Generate Snake Animation
+  on:
+    schedule:
+      - cron: "0 */12 * * *"
+    workflow_dispatch:
+  jobs:
+    generate:
+      permissions:
+        contents: write
+      runs-on: ubuntu-latest
+      steps:
+        - uses: Platane/snk/svg-only@v3
+          with:
+            github_user_name: ${{ github.repository_owner }}
+            outputs: |
+              dist/github-snake.svg
+              dist/github-snake-dark.svg?palette=github-dark
+        - uses: crazy-max/ghaction-github-pages@v3.1.0
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+-->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RishiRaj1495/RishiRaj1495/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RishiRaj1495/RishiRaj1495/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/RishiRaj1495/RishiRaj1495/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=RishiRaj1495&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
+
+</div>
+
+---
+
+## 💬 Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" />
+
+</div>
