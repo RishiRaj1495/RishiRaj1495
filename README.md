@@ -52,7 +52,7 @@
 
 - 🗂️ **20+ Repos** — shipped, not shelved
 - 📜 **18+ Certifications** — Google · Microsoft · IIT KGP · OpenAI
-- 🏆 **Hackathons** — Tech Tinkerers & more
+- 🏆 **Hackathons** — Tech Tinkerers, Code Buddies & more
 - 🎨 **Adobe General Assembly** — Program Participant
 
 </td>
